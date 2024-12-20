@@ -1,8 +1,8 @@
-# PDF Flashcard Generator
+# E-Flash
 
 ## Overview
 
-The PDF Flashcard Generator is a client-server application designed to generate flashcards from PDF files using AI. The server processes uploaded PDFs to extract text and uses a generative AI model to create flashcards. The client provides a graphical interface for users to upload PDFs, view generated flashcards, and save them locally.
+E-Flash is a client-server application designed to generate flashcards from PDF files using AI. The server processes uploaded PDFs to extract text and uses a generative AI model to create flashcards. The client provides a graphical interface for users to upload PDFs, view generated flashcards, and save them locally.
 
 ## Requirements
 
@@ -56,7 +56,7 @@ The PDF Flashcard Generator is a client-server application designed to generate 
 ## Testing the Application
 
 ### Testing Setup
-There are three testing conducted `clienttest.py` for client, `servertest.py`, and `fileoperationtest.py`
+There are three testing conducted `clienttest.py` for client, `servertest.py` for server, and `fileoperationtest.py` for file operation.
 Move the three files within the `testing` folder to the same directory as `client.py` and `server.py`
 
 
