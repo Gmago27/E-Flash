@@ -1,0 +1,21 @@
+# Requirements
+
+Python 3.7+
+
+Required Libraries:
+    tkinter
+    socket
+    threading
+    json
+    sys
+    io
+    os
+    nltk
+    PyPDF2
+    google-generativeai
+    filedialog
+    messagebox
+    ScrolledText
+    unittest    # testing
+    fpdf        # creating pdf for testing
+    time        # delays, exec time for testing

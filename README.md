@@ -1,0 +1,1 @@
+Hello this is our simple client-server PDF to Flashcard converter using Gemini's Generative AI API.
